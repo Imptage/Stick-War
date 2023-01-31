@@ -4,4 +4,4 @@ Important note : Every mods are not finished and perfect especially the Stick Wa
 
 Last note : DO NOT COPY MY WORK
 
-Tip : If the mod is too hard, it's normal
+Tip : If the mods are too hard, it's normal
