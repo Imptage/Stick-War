@@ -1,4 +1,4 @@
-# Stick-War-2
+# Stick-War
 
 Important note : Every mods are not finished and perfect especially the Stick War 1 mod, so don't be rude
 
