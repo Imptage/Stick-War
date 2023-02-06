@@ -6,6 +6,6 @@ Last note : DO NOT COPY MY WORK
 
 Tip : If the mods are too hard, it's normal
 
-Stick War 1 : Nothing much added
+Stick War 1 Challenge Mode : Nothing much added
 
-Stick War 2 : Increase of the difficulty (normalHealthScale, normalDamageScale, boss...)
+Stick War 2 Challenge Mode : Increase of the difficulty (normalHealthScale, normalDamageScale, boss...)
